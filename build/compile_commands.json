@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Programming/Projects/openpilot/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -g -o CMakeFiles\\openpilot.dir\\openpilot.cpp.obj -c D:\\Programming\\Projects\\openpilot\\openpilot.cpp",
+  "file": "D:\\Programming\\Projects\\openpilot\\openpilot.cpp"
+}
+]

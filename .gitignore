@@ -81,6 +81,4 @@ models/*.thneed
 
 *.bz2
 
-build/
-
 !**/.gitkeep
